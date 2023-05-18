@@ -27,7 +27,7 @@ class _ListKontakPageState extends State<ListKontakPage> {
       appBar: AppBar(
         backgroundColor: Colors.blue.shade900,
         title: Center(
-          child: Text("My Contact"),
+          child: Text("Kontak Saya"),
         ),
         actions: [
           IconButton(
